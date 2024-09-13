@@ -1,6 +1,6 @@
 ## Maven Projects Dashboard :
 
-- **Introduction:** <br/>
+**Introduction:** <br/>
 Welcome to the Maven Projects Dashboard repository, your go-to analytics tool for monitoring key metrics and trends across various Maven projects. Dive into insights on products, transactions, profit margins, returns, and more.<br/>
 
 **Project Objective:** <br/>
